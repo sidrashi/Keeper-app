@@ -14,5 +14,5 @@ Installation
 Clone the repository: git clone https://github.com/sidrashi/Keeper-app.git
 Navigate to the project directory: cd keeper-app
 Install dependencies: npm install
-npm start
+Start your application: npm start
 you can view it on localhost:3000
